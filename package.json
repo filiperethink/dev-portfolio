@@ -1,0 +1,8 @@
+{
+  "name": "dev-portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:filiperethink/dev-portfolio.git",
+  "author": "Filipe Prado <filipe.prado@rethink.dev>",
+  "license": "MIT"
+}
